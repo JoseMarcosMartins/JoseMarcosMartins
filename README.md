@@ -3,7 +3,7 @@
 
 
 - 🌱 Estou aprendendo a programar
-- 📫 Como chegar até mim:josemarcosarrieiro@gmail.com
+- 📫 Como chegar até mim : josemarcosarrieiro@gmail.com
 
 ##
 <div>
