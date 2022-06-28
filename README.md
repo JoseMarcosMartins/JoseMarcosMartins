@@ -1,7 +1,7 @@
 ### 
 <h1> Ola 👋 </h1>
 
-<a href = 'https://instagram.com/josemarcos_001'> Link pro intagram </a>
+<a href = 'https://instagram.com/josemarcos_001'> 💬 Link pro intagram </a>
 - 🌱 Estou aprendendo JAVA
 - 📫 Como chegar até mim: josemarcosarrieiro@gmail.com
 <!--
