@@ -2,7 +2,7 @@
 <h1> Ola 👋 </h1>
 
 
-- 🌱 Estou aprendendo JAVA
+- 🌱 Estou aprendendo a programar
 - 📫 Como chegar até mim:josemarcosarrieiro@gmail.com
 
 ##
