@@ -3,7 +3,7 @@
 
 <a href = 'https://instagram.com/josemarcos_001'> 💬 Link pro intagram </a>
 - 🌱 Estou aprendendo JAVA
-- 📫 Como chegar até mim: josemarcosarrieiro@gmail.com
+- 📫 Como chegar até mim: <a href = 'https://instagram.com/josemarcos_001'> 💬 Link pro intagram </a> josemarcosarrieiro@gmail.com
 <!--
 **JoseMarcosMartins/JoseMarcosMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
